@@ -121,8 +121,8 @@
    <text xml:lang="eng">
       <front>
          <div type="map">
-            <pb facs="tcp:020424_0000_0FAF1043C55FA7F8"/>
-            <pb facs="tcp:020424_0001_0FAF104482A9E280"/>
+            <pb facs="unknown:020424_0000_0FAF1043C55FA7F8"/>
+            <pb facs="unknown:020424_0001_0FAF104482A9E280"/>
             <p>
                <figure>
                   <head>A PLAN of the several <hi>Villages</hi> in the ILLINOIS COUNTRY, with Part of the River Mississippi &amp;c. by Tho. Hutchins.</head>
@@ -130,7 +130,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:020424_0002_0FAF104585F91938"/>
+            <pb facs="unknown:020424_0002_0FAF104585F91938"/>
             <p>A TOPOGRAPHICAL DESCRIPTION OF VIRGINIA, PENNSYLVANIA. <hi>MARYLAND,</hi> AND <hi>NORTH CAROLINA,</hi> COMPREHENDING THE RIVERS OHIO, KENHAWA, SIOTO, CHEROKEE, WABASH, ILLINOIS, MISSISIPPI, &amp;c.</p>
             <p>THE CLIMATE, SOIL and PRODUCE, WHETHER ANIMAL, VEGETABLE, OR MINERAL; THE Mountains, Creeks, Roads, Distances, Latitudes, &amp;c. and of every Part, laid down in the annexed MAP. Published by THOMAS HUTCHINS, CAPTAIN in the 60th Regiment of Foot.</p>
             <p>WITH A PLAN of the RAPIDS of the OHIO, a PLAN of the several VILLAGES in the ILLINOIS COUNTRY, a TABLE of the DISTANCES between FORT PITT and the Mouth of the OHIO, all Engraved upon Copper.</p>
@@ -138,19 +138,19 @@
             <p>BOSTON: Printed and Sold by JOHN NORMAN, in Marshall's Lane near the Boston Stone. MDCCLXXXVII.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:020424_0003_0FAF10460DE334D0"/>
+            <pb facs="unknown:020424_0003_0FAF10460DE334D0"/>
             <head>THE PREFACE.</head>
             <p>THE Map, which the following sheets are intended to explain, comprehends almost the whole of the country, lying between the 34th and 44th degrees of lati<g ref="char:EOLhyphen"/>tude, and the 79th and 93d degrees of longitude, and de<g ref="char:EOLhyphen"/>scribes an extent of territory, of about 850 miles in length, and 700 miles in breadth; and one, which, for health<g ref="char:EOLhyphen"/>fulness, fertility of soil, and variety of productions, is not, prehaps, surpassed by any on the habitable globe.</p>
             <p>Those parts of the country lying <hi>westward</hi> of the Al<g ref="char:EOLhyphen"/>legheny mountain, and upon the rivers <hi>Ohio</hi> and <hi>Missisippi,</hi> and upon most of the other rivers; and the lakes (laid down in my Map) were done from my own surveys, and corrected by my own Observations of latitudes, made at different periods preceding, and during all the campaigns of the <hi>last</hi> war (in several of which I acted as an Engineer) and <hi>since</hi> in many reconnoitring tours. which I made through various parts of the country, between the years 1764 and 1775.</p>
             <p>I have compared my own Observations, and Surveys, respecting the lakes, with those made by Captain Brehm, of the 60th Regiment of Foot (who was for many years employed as an Engineer in North America) and I find, that they correspond with more exactness than Surveys usually do, which are made by different persons, at dif<g ref="char:EOLhyphen"/>ferent times;—and I am happy in this opportunity, of expressing my obligations to this Gentleman, for the cheerfulness with which he furnished me with his Surveys and Remarks.</p>
             <p>It is fit also, that I should take notice, that in the ac<g ref="char:EOLhyphen"/>count which I have given of several of the <hi>branches</hi> of the Ohio, and Alleghany rivers, I have adopted the words of the late ingenious Mr. Lewis Evans, as I found he had properly described them in the Analysis to his Map of the Middle Colonies.—And as to that portion of my Map, which represents the country lying on the <hi>eastern</hi> side of the Alleghony mountain,—I take the liberty of informing my
-<pb n="ii" facs="tcp:020424_0004_0FAF1046B13AA170"/>
+<pb n="ii" facs="unknown:020424_0004_0FAF1046B13AA170"/>
 Readers, that my reason for inserting it, was to shew the several communications that are <hi>now</hi> made, and others which may be hereafter, easily, made, between the navi<g ref="char:EOLhyphen"/>gable branches of the <hi>Ohio</hi> and <hi>Allegheny</hi> rivers, and the rivers in <hi>Virginia</hi> and <hi>Pennsylvania,</hi> which fall into the At<g ref="char:EOLhyphen"/>lantic ocean, from the west and north-west.</p>
          </div>
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:020424_0005_0FAF10476DB8B258"/>
+            <pb facs="unknown:020424_0005_0FAF10476DB8B258"/>
             <head>A TOPOGRAPHICAL DESCRIPTION, &amp;c.</head>
             <p>THE lands lying on the westerdly line, between the <hi>Laurel</hi> Mountain and the <hi>Allegheny</hi> River, and thence northerly up that River for 150 miles, on both sides of the same, tho' not much broken with high mountains, are not of the same excellent quality with the lands to the southward of Fort Pitt. They consist chiefly of <hi>White Oak,</hi> and <hi>Chesnut</hi> ridges; and in many places of poor <hi>Pitch Pines,</hi> inte<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -160,7 +160,7 @@ Readers, that my reason for inserting it, was to shew the several communications
             <p>From the <hi>Laurel</hi> Mountain, to <hi>Monongahela,</hi> the first seven miles are good, level farming grounds, with fine meadows; the timber, white Oak, Chesnut, Hickory, &amp;c. The same kind of land continues southerly (12 miles) to the upper branches or forks of this River, and about 15 miles notherly to the place where the <hi>Youghiogeny</hi> falls into the <hi>Monongahela</hi> —The lands, for about 18 miles in the same Course of the last mentioned River, on each side of it<g ref="char:punc">▪</g> tho' hilly, are <hi>rich</hi> and well timbered —The trees are Walnut, L<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>cust<g ref="char:punc">▪</g> Chesnut, Poplar, and Sugar or sweet Maple.—The low lands, near the River, are about a mile,
-<pb n="2" facs="tcp:020424_0006_0FAF104830B38398"/>
+<pb n="2" facs="unknown:020424_0006_0FAF104830B38398"/>
 and in several places two miles wide.—For a considerable way down the River, on the eastern side of it, the intervals are extremely <hi>rich,</hi> and about a mile wide. The Upland for about 12 miles eastwardly, are uncommonly fertile, and well timbered;—the low lands, on the western side, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> narrow; but the Uplands, on the eastern side of the River, both up and down, are excellent, and covered with Sugar trees, &amp;c.</p>
@@ -192,7 +192,7 @@ and in several places two miles wide.—For a considerable way down the River, o
                <hi>Fort Pitt</hi> stands at the confluence of the <hi>Allegheny</hi> and <hi>Monóngabela</hi> Rivers; in latitude 40 31 44; and about five degrees <hi>westward</hi> of Philadelphia. In the year 1760, a small town, called <hi>Pittsburgh,</hi> was b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ilt near <hi>Fort Pitt,</hi>
-               <pb n="3" facs="tcp:020424_0007_0FAF104AA2E92DF8"/>
+               <pb n="3" facs="unknown:020424_0007_0FAF104AA2E92DF8"/>
 and about 200 families resided in it; but upon the Indian war breaking out (in the month of May 1763.) They abandoned their houses, and retired into the fort.</p>
             <p>In the year 1765 the present town of <hi>Pittsburgh</hi> was laid out. It is built on the eastern bank of the River <hi>Mononga<g ref="char:EOLhyphen"/>hela,</hi> about 200 yards from <hi>Fort Pitt.</hi>
             </p>
@@ -210,7 +210,7 @@ and about 200 families resided in it; but upon the Indian war breaking out (in t
                   </gap>ica,</hi> in the year 1755.—He says, that the
 <q>
                   <hi>Ohio</hi> River, as the winter snows are thawed, by the warmth or rains in the spring, rises in vast floods, in some places. exceed<g ref="char:EOLhyphen"/>ing 20 feet in height, but <hi>scarce any where</hi> overflowing
-<pb n="4" facs="tcp:020424_0008_0FAF104B94AF0758"/>
+<pb n="4" facs="unknown:020424_0008_0FAF104B94AF0758"/>
 its <hi>high and upright banks.</hi> These floods, Mr. <hi>Evans</hi> adds, continue of some heigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> for at least a month or two, according to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -229,7 +229,7 @@ its <hi>high and upright banks.</hi> These floods, Mr. <hi>Evans</hi> adds, cont
             <p>In a <hi>dry</hi> season, the descent of the Rapids, in the distance of a mile, is about 12, or 15 feet, and the passage <hi>down,</hi> would not be difficult, except, prehaps, for the following reasons. Two miles above them, the River is deep, and three quarters of a mile broad;—but the <hi>channel</hi> is much contracted, and does not exceed 250 yards in breadth; (near three-fourths of the bed of the River, on the south eastern side of it—being filled with a flat Limestone rock, so that in a dry season, there is seldom more than 6 or 8 inches water) it is upon the <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>thern side of the River and
-<pb n="5" facs="tcp:020424_0009_0FAF104C0CF95D88"/>
+<pb n="5" facs="unknown:020424_0009_0FAF104C0CF95D88"/>
 being confined, as above mentioned; the descending wa<g ref="char:EOLhyphen"/>ters tumble over the <hi>Rapids</hi> with a considerable degree of celerity and force. The channel is of different depths, but no where, I think, less than 5 feet;—It is clear, and upon each side of it are large broken rocks, a few inches under water<note n="*" place="bottom">
                   <p>Colonel GORDON, in his Journal <hi>down</hi> the Ohio mentions,
 <q>that these Falls do not deserve that Name as the Stream on the north side, has no sudden pitch, but only runs rapid over the ledge of a flat rock;—several boats, he says, passed it in the <hi>dryest season of the year</hi>; unloading one third of their freight. They passed on the north side, where the carrying-place is three quarters of a mile long. On the south-east side, it is about half that distance, and is reckoned the safest passage for those, who are unacquainted with it, but it is the most tedious, as during part of the summer, and Fall, the Bat<g ref="char:EOLhyphen"/>tomen drag their boats over the flat rock. The Fall is about half a mile rapid water, which however is passible, by wading and draging the boat against the stream, <hi>when lowest,</hi> and with still greater ease, when the water is raised a little.</q>—</p>
@@ -241,7 +241,7 @@ being confined, as above mentioned; the descending wa<g ref="char:EOLhyphen"/>te
                </gap>, commonly supposed to be those of Elephants:— but the celebrated Doctor <hi>Hunter</hi> of London, in his inge<g ref="char:EOLhyphen"/>nious and curious Observations on these bones, &amp;c. has supposed them to belong to some Carnivorous animal, larg<g ref="char:EOLhyphen"/>er than an ordinary Elephant<note n="*" place="bottom">
                   <hi>See Philosophical Transactions,</hi> 1768</note>.</p>
             <p>
-               <pb n="6" facs="tcp:020424_0010_0FAF104CA8E9F7F0"/>On the North-Western side of <hi>Ohio,</hi> about 11 miles below the <hi>Cherokee</hi> River, on a high bank, are the remains of <hi>Fort Massac,</hi> built by the <hi>French,</hi> and intended as a check to the Southern Indians. It was destroyed by them in the year 1763. This is a high, healthy and delightful situa<g ref="char:EOLhyphen"/>tion. A great variety of Game;—<hi>Buf<gap reason="illegible" resp="#PDCC" extent="2 letters">
+               <pb n="6" facs="unknown:020424_0010_0FAF104CA8E9F7F0"/>On the North-Western side of <hi>Ohio,</hi> about 11 miles below the <hi>Cherokee</hi> River, on a high bank, are the remains of <hi>Fort Massac,</hi> built by the <hi>French,</hi> and intended as a check to the Southern Indians. It was destroyed by them in the year 1763. This is a high, healthy and delightful situa<g ref="char:EOLhyphen"/>tion. A great variety of Game;—<hi>Buf<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>loe. Bear, Deer,</hi> &amp;c. as well as <hi>Ducks, Geese, Swans, Turkies, Pheasants, Partriges,</hi> &amp;c. abounds in every part of this country.</p>
             <p>The <hi>Ohio,</hi> and the Rivers emptying into it, afford green, and other Turtle, and fish of various sorts;—particularly <hi>Carp, Sturgeon, Perch,</hi> and <hi>Cats</hi>; the two latter of an un<g ref="char:EOLhyphen"/>common size, viz. Perch, from 8 to 12 pounds weight, and Cats from 50 to 100 pounds weight.</p>
@@ -250,7 +250,7 @@ being confined, as above mentioned; the descending wa<g ref="char:EOLhyphen"/>te
                   </gap>n, Maple,</hi> or <hi>Sugar Trees, Grape Vines,</hi> &amp;c. And below, or southwardly of the <hi>Rapids,</hi> are several large <hi>Cedar</hi> and <hi>Cypress swamps,</hi> where the Cedar and Cypress trees grow to a remarkable size, and where also is a great abundance of Canes, such as grow in <hi>South Carolina,</hi> The country on both sides of the <hi>Ohio,</hi> extend<g ref="char:EOLhyphen"/>ing South-easterdly, and South-westerdly from <hi>Fort Pitt</hi> to the <hi>Missisippi,</hi> and watered by the <hi>Ohio</hi> River, and its branches, contains at least <hi>a million of square miles,</hi> and it may, with truth, be affirmed, that no part of the globe is blessed with a more healthful air, or climate;—<note n="*" place="bottom">Colonel GORDON, in his Journal, gives the following Description of the soil and climate.
 <q>The country on the Ohio, &amp;c. is every where pleasant, with large level spots of rich land, remarkably heal<g ref="char:EOLhyphen"/>thy<g ref="char:punc">▪</g>—One general remark of this nature may serve for the whole tract of the Globe, comprehended between the Western skirts of the Allegheny mountains, beginning at Fort LECONIER, thence bearing South-westerdly to the distance of 500 miles opposite to the Ohio Falls then crossing them Northerly to the heads of the Rivers, that empty themselves into the OHIO: thence East along the ridge, that separates the Lakes and OHIO'S Streams to FRENCH CREEK, which is opposite to the abovementioned Fort LECONIER, Northerly.— This country may, from a proper knowledge, be affirmed to be the most healthy, the most pleasant, the most commodious, and most fer<g ref="char:EOLhyphen"/>tile spot of earth, known to EUROPEAN people.</q>
                </note> watered
-<pb n="7" facs="tcp:020424_0011_0FAF104D8578C1C0"/>
+<pb n="7" facs="unknown:020424_0011_0FAF104D8578C1C0"/>
 with more navigable rivers and branches communicating with the <hi>Atlantic Ocean,</hi> by the rivers <hi>Potowmack, Jamas, Rappahannock, Missisippi,</hi> and <hi>St. Lawrence,</hi> or capable of producing with less labour and expence <hi>Wheat, Indian Corn, Buck-wheat, Rye, Oats, Barley, Flax, Hemp, Tobacco, Rice, Silk, Pot-ash,</hi> &amp;c. than the country under consideration. And although there are considerable quantities of high lands for about 250 miles (on both sides of the river <hi>Ohio) southwardly</hi> from <hi>Fort Pitt,</hi> yet even the summits of most of the Hills are covered with a deep rich soil, fit for the culture of Flax and Hemp, and it may also be added, that no soil can possibly yield larger crops of red and white Clover, and other useful grass, than this does.</p>
             <p>On the <hi>North-west</hi> and <hi>South-east</hi> sides of the <hi>Ohio,</hi> be<g ref="char:EOLhyphen"/>low the <hi>Great Kanhawa</hi> River, at a little distance from it, are extensive natural meadows, or Savannahs. These meadows are from 20 to 50 miles in circuit. They have many beautiful groves of trees interspersed, as if by art in them, and which serve as a shelter for the innumerable <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -324,7 +324,7 @@ with more navigable rivers and branches communicating with the <hi>Atlantic Ocea
                   </q>
                </note>.</p>
             <p>
-               <pb n="8" facs="tcp:020424_0012_0FAF104E324389D8"/>Having made these Observations,—I proceed to give a brief Account of the several Rivers and Creeks which fall into the River <hi>Ohio.</hi>
+               <pb n="8" facs="unknown:020424_0012_0FAF104E324389D8"/>Having made these Observations,—I proceed to give a brief Account of the several Rivers and Creeks which fall into the River <hi>Ohio.</hi>
             </p>
             <p>
                <hi>Canawagy,</hi> when raised by freshes, is passable with small Battoes, to a little Lake at its head;—from thence there is a portage of 20 miles to Lake <hi>Erie,</hi> at the mouth of <hi>Ja<g ref="char:EOLhyphen"/>dághque.</hi> This portage is seldom used, because <hi>Canawagy</hi> has scarcely any water in it in a dry season.</p>
@@ -340,7 +340,7 @@ with more navigable rivers and branches communicating with the <hi>Atlantic Ocea
             </figure>
             <p>From A to B is the Carrying Place on the Nothern Side of the Ohio. From C to D is the safest and shortest Carrying Place. The dotted line represents the Channel of the River.</p>
             <p>
-               <pb n="9" facs="tcp:020424_0014_0FAF104FEC3C3800"/>
+               <pb n="9" facs="unknown:020424_0014_0FAF104FEC3C3800"/>
                <hi>Toby</hi>'s Creek is deep enough for Battoes for a considera<g ref="char:EOLhyphen"/>ble way up, thence by a short portage to the <hi>West</hi> branch of <hi>Susquehannah,</hi> a good communication is carried on be<g ref="char:EOLhyphen"/>tween <hi>Ohio</hi> and the <hi>eastern</hi> parts of Pennsylvania.</p>
             <p>
                <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -390,7 +390,7 @@ with more navigable rivers and branches communicating with the <hi>Atlantic Ocea
                   </gap>erâge,</hi>—<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he other with <hi>Muskingum</hi> and <hi>Cayahoga</hi>; on this branch, about thirty-five miles above
-<pb n="10" facs="tcp:020424_0015_0FAF10506874DB78"/>
+<pb n="10" facs="unknown:020424_0015_0FAF10506874DB78"/>
 the Forks, are many <hi>Salt springs.</hi>—It is practicable with Canoes about twenty miles farther.</p>
             <p>
                <hi>Muskingum</hi> is a fine gentle River, confined by high banks, which prevent its floods from overflowing the surrounding Land. It is 250 yards wide at its confluence with the <hi>Ohio,</hi> and navigable, without any obstr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -433,7 +433,7 @@ the Forks, are many <hi>Salt springs.</hi>—It is practicable with Canoes about
                </gap>0 or 60 miles further to the <hi>Falls,</hi> yet Batteau<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> or Bar<g ref="char:EOLhyphen"/>ges may be easily rowed thither. These Falls were for<g ref="char:EOLhyphen"/>merly
-<pb n="11" facs="tcp:020424_0016_0FAF10530189C4B0"/>
+<pb n="11" facs="unknown:020424_0016_0FAF10530189C4B0"/>
 thought <hi>impassible,</hi>; but late discoveries have prov<g ref="char:EOLhyphen"/>ed, that a waggon road may be made through the moun<g ref="char:EOLhyphen"/>tain, which occasions the <hi>Falls,</hi> and that by a portage of a few miles only, a communication may be had between the waters of <hi>Great Kanhawa</hi> and <hi>Ohio,</hi> and those of <hi>James River in Virginia.</hi>
             </p>
             <p>
@@ -467,7 +467,7 @@ thought <hi>impassible,</hi>; but late discoveries have prov<g ref="char:EOLhyph
             <p>The Stream of <hi>Sioto</hi> is gentle and passable with <hi>large <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>attoes or Barges</hi> for a considerable way, and with smaller
-<pb n="12" facs="tcp:020424_0017_0FAF1054367ECE40"/>
+<pb n="12" facs="unknown:020424_0017_0FAF1054367ECE40"/>
 boats, near 200 miles to a portage, of only four miles to <hi>Sandusky.</hi>
             </p>
             <p>
@@ -485,7 +485,7 @@ boats, near 200 miles to a portage, of only four miles to <hi>Sandusky.</hi>
                      <desc>•</desc>
                   </gap>ry, Mulberry, Elm,</hi> &amp;c. Several persons who have ascended this River, say, that <hi>salt springs, Coal, Lime and Freestone,</hi> &amp;c. are to be found in a variety of places.</p>
             <p>The <hi>Wabash,</hi> is a beautiful River, with high and up<g ref="char:EOLhyphen"/>right banks, less subject to overflow<g ref="char:punc">▪</g> than any other River <hi>(the Ohio excepted)</hi> in this part of America. It discharges
-<pb n="13" facs="tcp:020424_0018_0FAF1054F11C0198"/>
+<pb n="13" facs="unknown:020424_0018_0FAF1054F11C0198"/>
 itself into the <hi>Ohio,</hi> one thousand and twenty two miles <hi>below Fort Pitt,</hi> in latitude 37° 41<hi>l.</hi>—at its mouth, it is 270 yards wide; is navigable to <hi>Ouitanon</hi> (412 miles) in the Spring, Summer, and Autumn, with Battoes or Barges, drawing about three feet wa<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap> From thence, on account of a rocky bottom, and shoal water, large canoes are chief<g ref="char:EOLhyphen"/>ly employed, except when the River is swelled with rains, at which time it may be ascended with boats, such as I have just described, (197 miles further to the <hi>Miami</hi> carrying-place, which is nine miles from the <hi>Miami</hi> vil<g ref="char:EOLhyphen"/>lage, and this is situated on a River of the same name, that runs into the south-south-west part of Lake <hi>Erie.</hi> The Stream of the <hi>Wabash,</hi> is generally gentle to Fort <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -504,7 +504,7 @@ itself into the <hi>Ohio,</hi> one thousand and twenty two miles <hi>below Fort 
                   </gap> Ye<g ref="char:EOLhyphen"/>loe and White Clay, for Glass Works and Pottery.</hi> Two <hi>French</hi> settlement<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> are established on the <hi>Wabash,</hi> called <hi>Post Vincient</hi> and <hi>Ouiatànon</hi>; the first is 150 miles, and the other 262 miles from its mouth. The former is on the eastern side of the River, and consists of 60 settlers and their families. They raise Indian Corn,—Wheat; and Tobacco of an extraordinary good quality;—superior, it is said, to that produced in Virginia. They have a fine breed of horses (brought originally by the <hi>Indians</hi> from the
-<pb n="14" facs="tcp:020424_0019_0FAF1055A974EA40"/>
+<pb n="14" facs="unknown:020424_0019_0FAF1055A974EA40"/>
                <hi>Spanish</hi> settlements on the western side of the River <hi>Missi<g ref="char:EOLhyphen"/>sippi</hi>) and large stocks of Swine, and Black Cattle.</p>
             <p>The settlers deal with the natives for Furrs and Deer skins, to the amount of about 5000 l. annually. Hemp of a good texture grows spontaneously in the low lands of the <hi>Wabash,</hi> as do Grapes in the greatest abundance, having a black, <hi>thin</hi> skin and of which the inhabitants in the Au<g ref="char:EOLhyphen"/>tumn, make a sufficient quantity (for their own consump<g ref="char:EOLhyphen"/>tion) of <hi>well-tasted Red Wine.</hi> Hops large and good, are found in many places, and the lands are particularly adapt<g ref="char:EOLhyphen"/>ed to the culture of Rice. All European fruits:—Apples, Peaches, Pears, Cherries, Currants, Goosberrys, Melons, &amp;c. thrive well, both here, and in the country bordering on the River Ohio</p>
             <p>
@@ -528,7 +528,7 @@ itself into the <hi>Ohio,</hi> one thousand and twenty two miles <hi>below Fort 
                </gap>180 miles in Battoes of the construction of those mentioned in the preceding article, and from the depth of water, at that distance from its mouth<g ref="char:punc">▪</g> it is presumed, it may be navigated much further. The soil and timber of the lands, upon this River, are exactly the same as those upon <hi>Buffaloe</hi> River.</p>
             <p>
                <hi>The Cherokee River</hi> discharges itself into the <hi>Ohio</hi> on the
-<pb n="15" facs="tcp:020424_0020_0FAF105685BCCBB8"/>
+<pb n="15" facs="unknown:020424_0020_0FAF105685BCCBB8"/>
 same side, that the <hi>Shawanoe</hi> River does, that is,—1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> miles below or southerly of it, and 11 miles above, or northerly of the place where <hi>Fort Massac</hi> formerly stood, and 57 miles from the confluence of the <hi>Ohio</hi> with the Ri<g ref="char:EOLhyphen"/>ver <hi>Missippi.</hi>—The <hi>Cherokee</hi> River has been navigated 900 miles from its mouth. At the distance of 220 miles from thence, it widens from 400 yards (its general width) to between two or three miles, and continues this breadth for near thirty miles, farther. The whole of this distance, is called the <hi>Muscle Shoals.</hi> Here the Channel is obstruct<g ref="char:EOLhyphen"/>ed with a number of Islands, formed by trees and drifted wood, brought hither, at different seasons of the year, in freshes and floods. In passing these islands, the middle of the widest intermediate water, is to be navigated, as there it is deepest. From the mouth of the <hi>Cherokee</hi> River to <hi>Muscle Shoals</hi> the current is moderate, and both the high and low land<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -554,7 +554,7 @@ same side, that the <hi>Shawanoe</hi> River does, that is,—1<gap reason="illeg
                   </gap>ad</hi> is <hi>Long Island</hi> (three miles in length) and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rom thence to the source of the <hi>Cherokee</hi> River is 60 miles<g ref="char:punc">▪</g>
-               <pb n="16" facs="tcp:020424_0021_0FAF105747EAF270"/>
+               <pb n="16" facs="unknown:020424_0021_0FAF105747EAF270"/>
 and the whole distance is so rocky, as to be scarcely navi<g ref="char:EOLhyphen"/>gable with a canoe.</p>
             <p>By the <hi>Cherokee</hi> River, the emigrants from the frontier counties of <hi>Virginia</hi> and <hi>North Carolina,</hi> pass to the settle<g ref="char:EOLhyphen"/>ments in <hi>West Florida</hi> upon the River <hi>Missisippi.</hi> They embark at <hi>Long Island.</hi>
             </p>
@@ -575,7 +575,7 @@ and the whole distance is so rocky, as to be scarcely navi<g ref="char:EOLhyphen
                   </gap>se</hi> and <hi>K<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>skaskias</hi>;—the former is navigable for Battoes of about 60, and the latter for about
-<pb n="17" facs="tcp:020424_0022_0FAF1057F6D0BAE8"/>
+<pb n="17" facs="unknown:020424_0022_0FAF1057F6D0BAE8"/>
 130 miles;—both these Rivers run through a rich country<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> abounding in extensive, natural m<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -593,7 +593,7 @@ village; then they incline more towards that river, and run nearly parallel with
                </gap>ocks of Black Cattle, Swine, &amp;c.</p>
             <p>Three miles northerly of <hi>Kaskaskias,</hi> is a village of <hi>Illi<g ref="char:EOLhyphen"/>nois Indians,</hi> (of the <hi>Kaskaskias</hi> tribe) containing about 210 persons and 60 warriors. They were formerly brave and warlike, but are degenerated into a drunken, and de<g ref="char:EOLhyphen"/>bauched tribe, and so indolent, as scarcely to procure a suf<g ref="char:EOLhyphen"/>ficiency of Skins and Furrs to barter for cloathing.</p>
             <p>Nine miles further northward, than the last mentioned
-<pb n="18" facs="tcp:020424_0023_0FAF1058B3158F78"/>
+<pb n="18" facs="unknown:020424_0023_0FAF1058B3158F78"/>
 village, is another, called <hi>La prairie du Rocher,</hi> or (the <hi>Rock meadows.</hi>) It consists of 100 white inhabitants and 80 negroes.</p>
             <p>Three miles northerly of this place, on the banks of the <hi>Missisippi</hi> stood <hi>Fort Chartres.</hi> It was abandoned in the year 1772, as it was rendered untenable by the constant wash<g ref="char:EOLhyphen"/>ings of the River <hi>Missisippi</hi> in high floods.—The village of <hi>Fort Chartres,</hi> a little southward of the Fort,—contained so few inhabitants, as not to deserve my notice.</p>
             <p>One mile higher up the <hi>Missisippi</hi> than <hi>Fort Chartres,</hi> is a village settled by 170 warriors of the <hi>Piorias</hi> and <hi>Mitchi<g ref="char:EOLhyphen"/>gamias</hi> (two other tribes of the <hi>Illinois Indians.</hi>) They are as idle and debauched, as the tribe of <hi>Kaskaskias,</hi> which I have just described.</p>
@@ -604,7 +604,7 @@ village, is another, called <hi>La prairie du Rocher,</hi> or (the <hi>Rock mead
             <p>Twelve miles below, or southerly of <hi>Fort Chartres</hi> on the Western bank of the <hi>Missisippi,</hi> and nearly opposite to the village of <hi>Kaskaskias,</hi> is the village St <hi>Genevieve or Miss<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>re.</hi> It contains upwards of 100 houses, and 460 inhabitants,
-<pb n="19" facs="tcp:020424_0024_0FAF10597573A3B8"/>
+<pb n="19" facs="unknown:020424_0024_0FAF10597573A3B8"/>
 besides Negroes. This and St. <hi>Louis</hi> are all the villages that are upon the western, or Spanish side of the <hi>Missisippi.</hi>
             </p>
             <p>Four miles below St. <hi>Genevieve</hi> (on the western bank of <hi>Missisippi</hi>) at the mouth of a Creek, is a <hi>Hamlet,</hi> called the <hi>Saline.</hi> Here all the sal<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -648,7 +648,7 @@ The <hi>Ridge</hi> which form, the eastern bank of the <hi>Missisippi,</hi> abov
                      <desc>•</desc>
                   </gap>ssisippi,</hi> watered by several lakes, and shaded by small groves of copses of trees, scattered in different parts of it, and then the eye, with rapture, surveys, as well the high lands bordering upon the River <hi>Misouri,</hi> as those at a great<g ref="char:EOLhyphen"/>er distance up the <hi>Missisippi,</hi>—In fine, this charming ridge is covered with excellent Grass, large Oak, Walnut trees, &amp;c. and at the distance of about nine miles from the <hi>Missisippi,</hi> up the <hi>Illinois</hi> River, are seen many large savan<g ref="char:EOLhyphen"/>nahs, or meadows abounding in Buffaloe, Deer, &amp;c.</p>
             <p>
-               <pb n="20" facs="tcp:020424_0025_0FAF105A74A7F718"/>In ascending the <hi>Missisippi, Cape au Gres,</hi> particularly attracted my attention. It is about 8 leagues above the <hi>Illinois</hi> River, on the eastern side of the <hi>Missisippi,</hi> and con<g ref="char:EOLhyphen"/>tinues above five leagues on that River. There is a grad<g ref="char:EOLhyphen"/>ual descent back to delightful meadows, and to beautiful and frrtile uplands water'd by several Rivule<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="20" facs="unknown:020424_0025_0FAF105A74A7F718"/>In ascending the <hi>Missisippi, Cape au Gres,</hi> particularly attracted my attention. It is about 8 leagues above the <hi>Illinois</hi> River, on the eastern side of the <hi>Missisippi,</hi> and con<g ref="char:EOLhyphen"/>tinues above five leagues on that River. There is a grad<g ref="char:EOLhyphen"/>ual descent back to delightful meadows, and to beautiful and frrtile uplands water'd by several Rivule<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s, which fall into the <hi>Illinois</hi> River between 30 and 40 miles from its en<g ref="char:EOLhyphen"/>trance into the <hi>Missisippi,</hi> and into the latter at <hi>Cape au G<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -665,7 +665,7 @@ The <hi>Ridge</hi> which form, the eastern bank of the <hi>Missisippi,</hi> abov
             <p>A large quantity of Sugar is also annually made from the juce of the Maple tree; and as the Mulberry trees are large and numerous, I presume the making of Silk will employ the attention and industry of the settlers, when the country is more fully inhabited than at present, and especially <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the winters are much more moderate, and favourable for the breed of Silk Worms, than they are in many of the sea coast provinces. <hi>Indigo</hi> may likewise be successfully cultivated, (but not more than two cuttings in
-<pb n="21" facs="tcp:020424_0026_0FAF105B30864590"/>
+<pb n="21" facs="unknown:020424_0026_0FAF105B30864590"/>
                <hi>Wheat, Peas,</hi> and <hi>Indian Corn</hi> thrive well, as does every sort of Grain and Pulse, that is produced in any of the old Colonies. Great quantities of Tobacco are also yearly raised by the inhabitants of the <hi>Illinois,</hi> both for their own consumption, and that of the Indians;—but little has hitherto been exported to Europe. <hi>Hemp</hi> grows sponta<g ref="char:EOLhyphen"/>neously, and is of a good texture;—Its common height i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 10 feet, and its thickness three inches (the latter reckoned within about a foot of the root) and with little labour any quantity may be cultivated. <hi>Flax seed</hi> has hitherto been only raised in small quantities. There has however been enough produced to shew, that it may be sown to the great<g ref="char:EOLhyphen"/>est advantage. Apples, Pears, Peaches, and all other Eu<g ref="char:EOLhyphen"/>ropean fruits succeed admirably. Iron, Copper, and Lead Mines, as also Salt Springs, have been discovered in dif<g ref="char:EOLhyphen"/>ferent parts of this territory. The two latter are worked on the <hi>Spanish</hi> side of the <hi>Missisippi,</hi> with considerable ad<g ref="char:EOLhyphen"/>vantage to their owners. There is plenty of fish in the Rivers, particularly Cat, Carp, and Perch, of an uncom<g ref="char:EOLhyphen"/>mon size.—<hi>Savannahs,</hi> or natural meadows, are both nu<g ref="char:EOLhyphen"/>merous and extensive; yielding excellent grass, and feed<g ref="char:EOLhyphen"/>ing great herds of <hi>Buffaloe, Deer, &amp;c.</hi> Ducks, Teal, Geese, Swans, Cranes, Pelicans, Turkies, Pheasants, Partridges, &amp;c. such as are seen in the Sea coast Colonies, are in the greatest variety and abundance.—In short, every thing, that a reason <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -673,7 +673,7 @@ The <hi>Ridge</hi> which form, the eastern bank of the <hi>Missisippi,</hi> abov
                </gap> mind can desire, is to be found, or may, with little pains, be produced here<note n="*" place="bottom">See the annexed Plan of the villages in the Illinois country &amp;c. and see Appendix, No. 1. for a farther account thereof.</note>.</p>
             <p>
                <hi>Niagara Fort</hi> is a most important post, It secures a greater number of communications, through a large coun<g ref="char:EOLhyphen"/>try, than probably any other pass in <hi>interior</hi> America;— it stands at the entrance of a straight, by which <hi>Lake Onta<g ref="char:EOLhyphen"/>rio,</hi> is joined to <hi>Lake Erie,</hi> and the latter is connected with the three great Lakes <hi>Huron, Michegan,</hi> and <hi>Superior.</hi> About nine miles above Fort <hi>Niagara,</hi> the <hi>carrying place</hi> begins. It is occasioned by the stupendous cataract of that name. The quantity of water which tumbles over this <hi>Fall</hi> is unparralleled in <hi>America</hi>;—its heighth, is not less than 137 feet This <hi>Fall</hi> would interrupt the commu<g ref="char:EOLhyphen"/>nication
-<pb n="22" facs="tcp:020424_0027_0FAF105BA947DF00"/>
+<pb n="22" facs="unknown:020424_0027_0FAF105BA947DF00"/>
 between the Lakes Ontario and Erie; if a road was not made up the hilly country; that borders upon the <hi>straight.</hi> This road extend<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -708,7 +708,7 @@ between the Lakes Ontario and Erie; if a road was not made up the hilly country;
             <p>The country <hi>northward</hi> of this Lake, is in many parts <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>elled with moderate hills, but no high mountains. The climate is temperate, and the air healthful. The lands are well timbered, (but not generally so rich, as those upon
-<pb n="23" facs="tcp:020424_0028_0FAF105E4EFB4420"/>
+<pb n="23" facs="unknown:020424_0028_0FAF105E4EFB4420"/>
 the southern side of the lake) and for a considerable distance from it, and for several miles eastward of <hi>Cayahoga</hi> River, they appear quite level, and e<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>remely fertile; and except where extensive savannahs, or natural meadows intervene, are covered with large Oaks, Walnut, Ash, Hickory, Mulberry, Sassafras, &amp;c. &amp;c. and produce a great variety of Shrubs and Medic<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -731,7 +731,7 @@ the southern side of the lake) and for a considerable distance from it, and for 
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ives itself from Lake <hi>Huron,</hi> and at the distance of 33
-<pb n="24" facs="tcp:020424_0029_0FAF105F4302CC38"/>
+<pb n="24" facs="unknown:020424_0029_0FAF105F4302CC38"/>
 miles <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>oses itself in Lake St. <hi>Clair.</hi> It is in general rapid but particularly so near its source;—its channel, and also that of Lake St <hi>Clair,</hi> are sufficiently deep for shipping of very considerable burthen. This strait has several mouths, and the lands lying between them are fine meadows. The country on both sides of it, for 15 miles, has a very level appearance, but from thence to Lake <hi>Huron,</hi> it is in many places broken, and covered with white Pines, Oaks, Maple, Birch and Beech.</p>
@@ -745,7 +745,7 @@ miles <gap reason="illegible" resp="#PDCC" extent="1 letter">
                </note>.</head>
             <p>JULY 23, 1773.
 We set out form <hi>Kaskaskias</hi> in search of a Copper mine, and on the 31st reached the Illi<g ref="char:EOLhyphen"/>nois River; it is 84 miles from <hi>Kaskáskias.</hi> The same day we entered the <hi>Illinois</hi> River which is 18 miles a<g ref="char:EOLhyphen"/>bove that of the <hi>Missouri.</hi> The water was so low, and the sides of the river so full of weeds, that our progress was much interrupted, being obliged to row our boat in the deep water, and strong current. The chain of rocks, and high hills which begin at the <hi>Piasas</hi> about three miles above the <hi>Missouri,</hi> extend to the mouth of the Illinois River, and continue along the south-eastern side of the same in an east-north-east course. About eigh<g ref="char:EOLhyphen"/>teen miles up this river, on the eastern side, is a little river called by the natives <hi>Macopin</hi> or <hi>White Potato</hi> Riv<g ref="char:EOLhyphen"/>er; it is 20 yards wide, and navigable nine miles to the hills. The shore is low on both sides; the timber, <hi>Bois connu,</hi> or <hi>Paccan, Maple, Ash, Button wood,</hi> &amp;c. The course of the <hi>Illinois</hi> River here, is N. N, E; the land is well timbered, and covered with high weeds. There are fine meadows at a little distance from the riv<g ref="char:EOLhyphen"/>er; the banks of which do not crumble away as those of the <hi>Missisippi</hi> do: we passed numbers of Islands, some
-<pb n="25" facs="tcp:020424_0030_0FAF105F6A072F90"/>
+<pb n="25" facs="unknown:020424_0030_0FAF105F6A072F90"/>
 of them between nine and twelve miles in length, and three miles in bre<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>dth.—The general width of the Riv<g ref="char:EOLhyphen"/>er in this day's journey, was about 400 yards.</p>
@@ -774,7 +774,7 @@ of them between nine and twelve miles in length, and three miles in bre<gap reas
                </gap>ds wide, and navigable for small boats or canoes upwards of 180 miles, and about sunset, we passed the River <hi>Demi-Quian</hi> It comes in on the western side of the <hi>Illinos,</hi> River; (165 miles from the <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ssisippi</hi>;) is 50 yards wide, and navigable 120 miles. We encamped on the south eastern side of the <hi>Illinois</hi> river, opposite to a very large savannah, belonging to and called, the
-<pb n="26" facs="tcp:020424_0031_0FAF106034D23B68"/>
+<pb n="26" facs="unknown:020424_0031_0FAF106034D23B68"/>
                <hi>Demi-Quian</hi> swamp. The lands on the south-eastern side are high and thinly timbered; but at the place of our encampment are fine meadows, extending farthe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> than the eye can reach, and affording a delightful pro<g ref="char:EOLhyphen"/>spect. The low lands on the western side of the <hi>Illinois</hi> River, extend so far back from it that no high grounds can be seen. Here is plenty of Buffaloe, Deer, Elk, Turkies, &amp;c.</p>
@@ -801,7 +801,7 @@ of them between nine and twelve miles in length, and three miles in bre<gap reas
                </gap>ich inclined me to thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>k that
-<pb n="27" facs="tcp:020424_0032_0FAF1061290D4ED0"/>
+<pb n="27" facs="unknown:020424_0032_0FAF1061290D4ED0"/>
 a coal mine, not far distant, was on fire, and I have since heard, there was.—The land is high on the eastern bank of the river, but on the western are large plains or meadows, extending as far as can be seen, covered with fine grass. This river is 195 <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> from the <hi>Missippi.</hi>
@@ -812,7 +812,7 @@ a coal mine, not far distant, was on fire, and I have since heard, there was.—
             </p>
             <p>August 8, The wind being fair we made a sail of our tent, and reached the upper end of the lake by sun set; and the wind continuing fair we ascended the River, and about 4 o'clock passed <hi>Crows Meadows River,</hi> which comes from the eastward, and over against it, on the west side, are the meadows just mentioned, 240 miles from the <hi>Missisippi.</hi> This River is twenty yards wide, and navigable between 15 and 18 miles. The land on both sides of the <hi>Illinois</hi> River, for 27 or 30 miles above the lake, is generally low and full of Swamps, some a mile wide, bordered with fine meadows, and in some places, the high land comes to the River in points, or narrow necks.</p>
             <p>
-               <pb n="28" facs="tcp:020424_0033_0FAF106207F66BF0"/>
+               <pb n="28" facs="unknown:020424_0033_0FAF106207F66BF0"/>
 August 9, At 10 <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, we passed the <hi>Riviere de l' Isle de Pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -839,7 +839,7 @@ August 9, At 10 <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>•</desc>
                </gap>ct us in a canoe to our boat.</p>
             <p>
-               <pb n="29" facs="tcp:020424_0034_0FAF10627315E950"/>
+               <pb n="29" facs="unknown:020424_0034_0FAF10627315E950"/>
 August 11, We set off about three o'clock, and at night got within nine miles of our boat. We computed it to be 45 miles from the island we last departed from, to the place where we left our boat.</p>
             <p>August 12, We embarked early, and proceeded three miles down the <hi>Illinois</hi> River. On the north-wes<g ref="char:EOLhyphen"/>tern side of this river is a coal <hi>mine,</hi> that extends for half a mile along the middle of the bank of the river, which is high. On the eastern side, about half a mile from it, and about the same distance below the coal mine, are two salt ponds, 100 yards in circumference, and several feet in depth; the water is stagnant, and of a yellowish colour; but the <hi>French,</hi> and natives make good salt from it. We tasted the water, and though<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -856,13 +856,13 @@ August 11, We set off about three o'clock, and at night got within nine miles of
             <p>August 15, Rowed very constantly all day, and ar<g ref="char:EOLhyphen"/>rived at the <hi>Mine River</hi> in the evening. Here I met with Mr. <hi>Janiste</hi> a <hi>French</hi> gentleman, and prevailed on him to accompany me, in an attempt up this River, to discover the <hi>Copper-Mine.</hi>
             </p>
             <p>August 16, Embarked early, and ascended the <hi>Mine</hi> River in a small canoe, about 6 miles, but could get no further, as the river was quite dry a little higher up. It runs the above distance, through very high grounds, is
-<pb n="30" facs="tcp:020424_0035_0FAF10632C809018"/>
+<pb n="30" facs="unknown:020424_0035_0FAF10632C809018"/>
 rocky and very crooked; the banks of the river are much broken, and the passage choaked with timber; — Mr. <hi>Janiste</hi> says, that the current is so strong in flood<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, no<g ref="char:EOLhyphen"/>thing can resist it. The bottom is sand, green in some places, and red in others; it is said, that there is an allum hill on this river; —As I thought it was impos<g ref="char:EOLhyphen"/>sible to get to the <hi>mine</hi> by land at this season of the year, on account of the rocky mountains, weeds, briars, &amp;c. I determined to return to <hi>Kaskaskias,</hi> and accordingly we went back to our boat, embarked about one o'clock, and continued rowing day and night until 12 o'clock the 18th, when we entered the river <hi>Missisippi</hi> on our way to <hi>Kaskaskias</hi> village.</p>
          </div>
          <div type="table">
-            <pb facs="tcp:020424_0036_0FAF10642DE319D0"/>
+            <pb facs="unknown:020424_0036_0FAF10642DE319D0"/>
             <p>
                <table>
                   <head>APPENDIX No. III. A List of the different Nations and Tribes of Indians in the Northern District of North America, with the number of their fighting Men, &amp;c. &amp;c.</head>
@@ -1041,7 +1041,7 @@ rocky and very crooked; the banks of the river are much broken, and the passage 
                            <desc>•</desc>
                         </gap>hey reside</cell>
                   </row>
-                  <pb facs="tcp:020424_0037_0FAF10684C5666C8"/>
+                  <pb facs="unknown:020424_0037_0FAF10684C5666C8"/>
                   <row>
                      <cell>
                         <list>
@@ -1272,7 +1272,7 @@ rocky and very crooked; the banks of the river are much broken, and the passage 
             </p>
          </div>
          <div type="table">
-            <pb facs="tcp:020424_0038_0FAF106A04EBAC90"/>
+            <pb facs="unknown:020424_0038_0FAF106A04EBAC90"/>
             <p>
                <table>
                   <head>A TABLE OF DISTANCES, between FORT PITT, and the Mouth of the RIVER OHIO.</head>
